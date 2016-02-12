@@ -30,7 +30,6 @@ text-align: center;
 }
 
 #sidebar{
-  /*background-color: #ddd;*/
   width: 200px;
   float: right;
   font-style: italic;
@@ -39,7 +38,6 @@ text-align: center;
 }
 
 #container{
-  /*background-color: #e37676;*/
   width: 750px;
   margin: 0 auto;
 }
